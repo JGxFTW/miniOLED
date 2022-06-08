@@ -87,7 +87,7 @@ Lastly add lines in _Conditionals_LCD.h_:
      #define IS_U8GLIB_SSD1306
 ```
 
-firmware is 
+Firmware (Marlin 2.0.9.1) can be found in [miniprusa MC3] project files. 
 
 ## Schematic
 
@@ -114,3 +114,4 @@ GPLv3
 [//]: # (REFLINKS)
 
    [Reprap Forum thread]:<https://reprap.org/forum/read.php?13,499572,page=1>
+   [miniprusa MC3]: <github.com/JGxFTW/miniprusa>
